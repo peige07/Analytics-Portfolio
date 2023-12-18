@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-This repository will serve as a compendium for the project that I have completed. Each project will be showcased in a Jupyter Notebook to simplify and ease of access.
+This repository will serve as a compendium for the projects that I have completed. Each project will be showcased in a Jupyter Notebook with notes to highlight the data analysis process to simplify.
 
 For inquiries and collab requests feel free to reach out at peige77@gmail.com.
 
