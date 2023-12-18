@@ -11,5 +11,5 @@ Please view each Jupyter Notebook in the files section of this repo.
 - Advanced SQL inside Microsoft SQL Server Management Studio & Jupyter Notebooks via direct database connection
 - Data visualizations and dashboards created in Excel and Tableau
 
-<strong>Main analysis skills:</br></strong>
+<strong>Main skills:</br></strong>
 Python, Numpy, Pandas, Matplotlib, Seaborn, HTML, CSS, JS, Excel, Tableau, Formulas, Functions, Dashboards, Data Cleaning, Preprocessing & Wrangling, Exploratory Data Analysis, Statistical Analysis, Revenue Forecasting and Sales Data Analysis, Microsoft SQL Server Management Studio, Big Query, Large & Small Data, ELT, Data Migration, Modeling & Storage and Database Management
