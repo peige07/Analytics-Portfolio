@@ -2,7 +2,7 @@
 
 *This project was created to analyze sales data from a national franchise of Bike Stores, specifically, I wanted to determine: the states that produced the most revenue, which months produced the most revenue, identify the top 10 revenue-producing products each year, determine the top sales reps based on performance and identify the top 10 customers who account for the most sales. *
 
-To view the complete project [click here.](https://github.com/peige07/Analytics-Portfolio/blob/main/Python%20Projects/French%20Bakery%20Sales%20Analysis/French_Bakery.ipynb)
+To view the complete project [click here.](https://github.com/peige07/Analytics-Portfolio/blob/main/SQL%20Projects/Bike%20Store%20Revenue%2C%20Customer%20%26%20Employee%20Analysis/Bike%20Store%20Revenue%2C%20Customer%20%26%20Employee%20Analysis.ipynb)
 
 ### Tools, Software & Skills showcased:
 - SQL in Microsoft SQL Server Management Studio
