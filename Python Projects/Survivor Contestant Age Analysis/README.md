@@ -3,7 +3,7 @@
 *My Family and I are obsessed with the show Survivor. Every season we bet on who will win based on our first impressions from episode #1. 
 To give myself an advantage I performed an analysis to determine what age groups win Survivor the most often (Shhhh! I dont want them to figure out why I always win)...*
 
-To view the complete project [click here.](https://github.com/peige07/Analytics-Portfolio/blob/main/Python%20Projects/French%20Bakery%20Sales%20Analysis/French_Bakery.ipynb)
+To view the complete project [click here.](https://github.com/peige07/Analytics-Portfolio/blob/main/Python%20Projects/Survivor%20Contestant%20Age%20Analysis/Survivor_Contestant_Age_Analysis.ipynb)
 
 ### Tools, Software & Skills showcased:
 - Python with JupyterLab
