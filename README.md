@@ -1,15 +1,31 @@
 # Data Analytics Portfolio
 
-This repository will serve as a compendium for the projects that I have completed. Each project will be showcased in a Jupyter Notebook with notes to highlight the data analysis process to simplify.
-
 For inquiries and collab requests feel free to reach out at peige77@gmail.com.
 
-Please view each Jupyter Notebook in the files section of this repo.
+This repository will serve as a compendium of the projects that I have completed. Most projects are showcased inside a Jupyter Notebook to show the data analysis thought process concisely.
 
-<strong>Technologies and software:</strong>
-- Python programming with the following libraries: Numpy, Pandas, Matplotlib, and Seaborn
-- Advanced SQL inside Microsoft SQL Server Management Studio & Jupyter Notebooks via direct database connection
-- Data visualizations and dashboards created in Excel and Tableau
+**Projects are broken down into 3 separate folders based on the way the analysis was performed:**
+- Python Projects -  analysis using Python programming, visualizations created with Python, Excel & Tableau
+- SQL Projects -  analysis using SQL specifically Microsoft SQL Server Management Studio, visualizations created with Excel & Tableau
+- Other Projects - analysis & visualization are usually done inside Excel directly
 
-<strong>Main skills:</br></strong>
-Python, Numpy, Pandas, Matplotlib, Seaborn, HTML, CSS, JS, Excel, Tableau, Formulas, Functions, Dashboards, Data Cleaning, Preprocessing & Wrangling, Exploratory Data Analysis, Statistical Analysis, Revenue Forecasting and Sales Data Analysis, Microsoft SQL Server Management Studio, Big Query, Large & Small Data, ELT, Data Migration, Modeling & Storage and Database Management
+**Main skills, tools & softwares:**
+- Python Libraries: NumPy, Pandas, Matplotlib, Seaborn, Folium & Pypyodbc
+- SQL: Database Management, ELT, Data Migration, Microsoft SQL Server Management Studio, Big Query & Large and Small Data
+- Data Analysis: Collection, Preprocessing, Wrangling, Cleaning, Manipulation, Transformation & Exploratory Data Analysis
+- Statistical Analysis: Univariate and Bivariate Analysis & Hypothesis Testing
+- Additional Software: Excel, Sheets, Jupyter Notebook/Lab & Tableau
+- Misc: HTML, CSS, JS, Dashboard Creation, Revenue Forecasting
+
+## Python Projects
+
+
+
+## SQL Projects
+
+
+
+
+## Other Projects
+
+
