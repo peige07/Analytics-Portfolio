@@ -9,7 +9,7 @@ Previews of each project with a short description and project link can be viewed
 **Projects are broken down into 3 separate folders based on the way the analysis was performed:**
 - Python Projects -  analysis using Python programming, visualizations created with Python, Excel & Tableau
 - SQL Projects -  analysis using SQL specifically Microsoft SQL Server Management Studio, visualizations created with Excel & Tableau
-- Other Projects - projects that dont neatly fit into another category ex: websites created with HTML, CSS & JS or Excel-only projects
+- Other Projects - projects that don't neatly fit into another category ex: websites created with HTML, CSS & JS or Excel-only projects
 
 **Main skills, tools & softwares:**
 - Python Libraries: NumPy, Pandas, Matplotlib, Seaborn, Folium & Pypyodbc
@@ -20,6 +20,7 @@ Previews of each project with a short description and project link can be viewed
 - Misc: HTML, CSS, JS, Dashboard Creation, Revenue Forecasting
 
 ## Python Projects
+
 [Asheville Airbnb Data Analysis](https://github.com/peige07/Analytics-Portfolio/tree/main/Python%20Projects/Asheville%20Airbnb%20Analysis)- Created to identify the perfect daily rate for my Asheville property during travels and pinpoint strategic investment locations, this project blends precision with potential in the realm of real estate
 
 **Visualizations from Project:**
@@ -31,6 +32,7 @@ Previews of each project with a short description and project link can be viewed
 <br>
 <hr>
 <br>
+
 [U.S. Education Spending vs. Test Scores Analysis](https://github.com/peige07/Analytics-Portfolio/tree/main/Python%20Projects/U.S.%20Education%20Spending%20vs.%20Test%20Scores%20Analysis)- This project dissected U.S. Department of Education data, revealing the intricate relationships among state revenue, 8th-grade math scores, state expenditure, and identifying states with the highest student populations.
 
 **Visualizations from Project:**
@@ -42,6 +44,7 @@ Previews of each project with a short description and project link can be viewed
 <br>
 <hr>
 <br>
+
 [French Bakery Sales Analysis and Revenue Projection](https://github.com/peige07/Analytics-Portfolio/tree/main/Python%20Projects/French%20Bakery%20Sales%20Analysis) - This project unfurled the essence of a French Bakery's sales, distilling monthly revenues, spotlighting the top 10 items, and orchestrating a forecast for the coming year.
 
 **Visualizations from Project:**
@@ -50,6 +53,21 @@ Previews of each project with a short description and project link can be viewed
 <br>
 <br>
 ![French_Bakery_Tableau_Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/7cfcac7e-ad70-472f-8f1d-d5213328a35c)
+<br>
+<hr>
+<br>
+
+[Survivor Contestant Age Analysis](https://github.com/peige07/Analytics-Portfolio/tree/main/Python%20Projects/Survivor%20Contestant%20Age%20Analysis) - In the realm of Survivor fandom, my family bets on victors based on episode #1 impressions. Seeking an advantage, I discreetly analyzed age groups to secure my winning streak
+
+**Visualizations from Project:**
+<br>
+![Survivor Excel Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/795fdc86-80ac-4816-b223-b0585979b6b4)
+<br>
+<br>
+![Survivor Tableau Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/0f6128a6-2e5d-4ccf-97bd-bfefec4e36cd)
+
+
+
 
 ## SQL Projects
 
