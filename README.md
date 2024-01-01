@@ -20,7 +20,6 @@ Previews of each project with a short description and project link can be viewed
 - Misc: HTML, CSS, JS, Dashboard Creation, Revenue Forecasting
 
 ## Python Projects
-
 [Asheville Airbnb Data Analysis](https://github.com/peige07/Analytics-Portfolio/tree/main/Python%20Projects/Asheville%20Airbnb%20Analysis)- Created to identify the perfect daily rate for my Asheville property during travels and pinpoint strategic investment locations, this project blends precision with potential in the realm of real estate
 
 **Visualizations from Project:**
@@ -32,7 +31,7 @@ Previews of each project with a short description and project link can be viewed
 <br>
 <hr>
 <br>
-[U.S. Education Spending vs. Test Scores Analysis](- This project dissected U.S. Department of Education data, revealing the intricate relationships among state revenue, 8th-grade math scores, state expenditure, and identifying states with the highest student populations.
+[U.S. Education Spending vs. Test Scores Analysis](https://github.com/peige07/Analytics-Portfolio/tree/main/Python%20Projects/U.S.%20Education%20Spending%20vs.%20Test%20Scores%20Analysis)- This project dissected U.S. Department of Education data, revealing the intricate relationships among state revenue, 8th-grade math scores, state expenditure, and identifying states with the highest student populations.
 
 **Visualizations from Project:**
 <br>
@@ -43,7 +42,7 @@ Previews of each project with a short description and project link can be viewed
 <br>
 <hr>
 <br>
-[French Bakery Sales Analysis and Revenue Projection](https://github.com/peige07/Analytics-Portfolio/blob/main/Python%20Projects/French%20Bakery%20Sales%20Analysis/README.md?plain=1)- This project unfurled the essence of a French Bakery's sales, distilling monthly revenues, spotlighting the top 10 items, and orchestrating a forecast for the coming year.
+[French Bakery Sales Analysis and Revenue Projection](https://github.com/peige07/Analytics-Portfolio/tree/main/Python%20Projects/French%20Bakery%20Sales%20Analysis) - This project unfurled the essence of a French Bakery's sales, distilling monthly revenues, spotlighting the top 10 items, and orchestrating a forecast for the coming year.
 
 **Visualizations from Project:**
 <br>
