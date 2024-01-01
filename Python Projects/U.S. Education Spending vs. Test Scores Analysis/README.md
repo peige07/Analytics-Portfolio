@@ -3,7 +3,7 @@
 *Data analysis was performed using data from the U.S. Department Of Education. 
 Based on the data I wanted to determine the correlation between: state revenue and 8th-grade math scores, state expenditure and 8th-grade math scores and which states had the most students.*
 
-To view the complete project [click here.](https://github.com/peige07/Analytics-Portfolio/blob/main/SQL%20Projects/Spotify%20Top%20Artists%2C%20Albums%20%26%20Singles%20Analysis/Spotify%20Top%20Artists%2C%20Albums%20%26%20Singles%20Analysis.ipynb)
+To view the complete project [click here.](https://github.com/peige07/Analytics-Portfolio/blob/main/Python%20Projects/U.S.%20Education%20Spending%20vs.%20Test%20Scores%20Analysis/U.S.%20Education%20Spending%20vs.%20Test%20Scores%20Analysis.ipynb)
 
 ### Tools, Software & Skills showcased:
 - Python with JupyterLab
