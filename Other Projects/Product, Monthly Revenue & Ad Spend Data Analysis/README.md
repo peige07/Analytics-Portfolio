@@ -2,7 +2,7 @@
 
 *Data analysis of data provided by a digital marketing company. The goal of this analysis was to determine: monthly sales revenue, highest-grossing states, on-time deliveries, returns per product, most profitable acquisition channels and customer satisfaction for each product in their catalog.*
 
-The entire project was completed in Excel, click here to view the XLSX file.
+The entire project was completed in Excel, [click here to view the XLSX file.](https://github.com/peige07/Analytics-Portfolio/blob/main/Other%20Projects/Product%2C%20Monthly%20Revenue%20%26%20Ad%20Spend%20Data%20Analysis/CS%20Data%20Dashboard.xlsx)
 
 ### Tools, Software & Skills showcased:
 - Excel 
