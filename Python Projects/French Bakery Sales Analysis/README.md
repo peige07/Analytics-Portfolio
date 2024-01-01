@@ -2,7 +2,7 @@
 
 *This project was created to analyze sales data from a French Bakery, specifically, I wanted to determine: monthly revenue each year, the top 10 items sold each month, and forecast revenue for the following year*
 
-To view the complete project [click here.](https://github.com/peige07/Analytics-Portfolio/blob/main/Python%20Projects/Asheville%20Airbnb%20Analysis/Asheville%20NC%20Airbnb%20Analysis.ipynb)
+To view the complete project [click here.](https://github.com/peige07/Analytics-Portfolio/blob/main/Python%20Projects/French%20Bakery%20Sales%20Analysis/French_Bakery.ipynb)
 
 ### Tools, Software & Skills showcased:
 - Python with JupyterLab
