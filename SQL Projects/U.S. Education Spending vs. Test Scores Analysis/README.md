@@ -1,32 +1,28 @@
-# Spotify Top Artists, Albums & Singles Analysis
+# U.S. Education Spending vs. Test Scores Analysis
 
-*This project was created to analyze data from Spotify, specifically, I looked at: who the top 10 artist are, what the top 10 singles are & what the top 10 albums are all based on streams*
+*Data analysis was performed using data from U.S. Department Of Education. Based on the data I wanted to determine the correlation between: state revenue and 8th-grade math scores, state expenditure and 8th-grade math scores and which states had the most students.  *
 
 To view the complete project [click here.](https://github.com/peige07/Analytics-Portfolio/blob/main/SQL%20Projects/Spotify%20Top%20Artists%2C%20Albums%20%26%20Singles%20Analysis/Spotify%20Top%20Artists%2C%20Albums%20%26%20Singles%20Analysis.ipynb)
 
 ### Tools, Software & Skills showcased:
-- SQL in Microsoft SQL Server Management Studio Via Pypyodbc Library Connection In Jupyter Notebooks
-  - Database creation, data collection, cleaning, transformation & loading
-  - SQL Statement & Functions: with, partition by, group by, order by & sub-queries
 - Python with JupyterLab
-  - Numpy, Pandas, Matplotlib, Seaborn, Scipy & Pypyodbc
-  - Heatmaps, bar graphs & reg plots
+  - Numpy, Pandas, Matplotlib, Seaborn & Scipy
+  - Data collection, discovery & exploratory data analysis
+  - Univariate and Bivariate Analysis
+  - Multiple Hypothesises created and tested using Pearson Correlation Coefficient
+  - Creation of heatmap, box plot, hist plot and scatter plot
 - Excel (data visualization)
   - Creation of pivot tables and dashboard with slicers for filtering (see below)
+- Tableau (data visualization)
+  - Created a dashboard with custom filters (see below)
 
-### Visualization Snapshot:
+### Dashboard Snapshot:
 
 **Excel Dashboard**
 <br>
-![Spotify Excel Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/36b4f638-af9a-48ff-bcb7-72508c52d077)
+![US Education Excel Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/64670754-f26a-4533-804a-a210ccf3a5a2)
 <br>
+
+**Tableau Dashboard**
 <br>
-**Additional Visualizations In Python**
-<br>
-![Spotify Heatmap](https://github.com/peige07/Analytics-Portfolio/assets/136380370/063febc9-eaf2-44c1-98ff-232608f504f4)
-<br>
-<br>
-![Most Streamed Bar Graph](https://github.com/peige07/Analytics-Portfolio/assets/136380370/74aee66b-a267-4f1e-9c77-773b5c7886e3)
-<br>
-<br>
-![Reg plot](https://github.com/peige07/Analytics-Portfolio/assets/136380370/80088198-be38-4ef8-8f3c-32934ea22793)
+![US Education Tableau Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/87dfcdcd-0154-421f-a0d5-b08760fb2c0d)
