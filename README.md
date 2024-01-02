@@ -7,21 +7,21 @@ This repository will serve as a compendium of the projects that I have completed
 Previews of each project with a short description and project link can be viewed below.
 
 **Projects are broken down into 3 separate folders based on the way the analysis was performed:**
-- Python Projects -  analysis using Python programming, visualizations created with Python, Excel & Tableau
-- SQL Projects -  analysis using SQL specifically Microsoft SQL Server Management Studio, visualizations created with Excel & Tableau
-- Other Projects - projects that don't neatly fit into another category ex: websites created with HTML, CSS & JS or Excel-only projects
+- **Python Projects -**  analysis using Python programming, visualizations created with Python, Excel & Tableau
+- **SQL Projects -**  analysis using SQL specifically Microsoft SQL Server Management Studio, visualizations created with Excel & Tableau
+- **Other Projects -** projects that don't neatly fit into another category ex: websites created with HTML, CSS & JS or Excel-only projects
 
 **Main skills, tools & softwares:**
-- Python Libraries: NumPy, Pandas, Matplotlib, Seaborn, Folium & Pypyodbc
-- SQL: Database Management, ELT, Data Migration, Microsoft SQL Server Management Studio, Big Query & Large and Small Data
-- Data Analysis: Collection, Preprocessing, Wrangling, Cleaning, Manipulation, Transformation & Exploratory Data Analysis
-- Statistical Analysis: Univariate and Bivariate Analysis & Hypothesis Testing
-- Additional Software: Excel, Sheets, Jupyter Notebook/Lab & Tableau
-- Misc: HTML, CSS, JS, Dashboard Creation, Revenue Forecasting
+- **Python Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Folium & Pypyodbc
+- **SQL:** Database Management, ELT, Data Migration, Microsoft SQL Server Management Studio, Big Query & Large and Small Data
+- **Data Analysis:** Collection, Preprocessing, Wrangling, Cleaning, Manipulation, Transformation & Exploratory Data Analysis
+- **Statistical Analysis:** Univariate and Bivariate Analysis & Hypothesis Testing
+- **Additional Software:** Excel, Sheets, Jupyter Notebook/Lab & Tableau
+- **Misc:** HTML, CSS, JS, Dashboard Creation, Revenue Forecasting
 
 ## Python Projects
 
-[Asheville Airbnb Data Analysis](https://github.com/peige07/Analytics-Portfolio/tree/main/Python%20Projects/Asheville%20Airbnb%20Analysis)- Created to identify the perfect daily rate for my Asheville property during travels and pinpoint strategic investment locations, this project blends precision with potential in the realm of real estate
+[Asheville Airbnb Data Analysis](https://github.com/peige07/Analytics-Portfolio/tree/main/Python%20Projects/Asheville%20Airbnb%20Analysis)- Created to identify the perfect daily rate for my Asheville property during travels and pinpoint strategic investment locations, this project blends precision with potential in the realm of real estate.
 
 **Visualizations from Project:**
 <br>
@@ -57,7 +57,7 @@ Previews of each project with a short description and project link can be viewed
 <hr>
 <br>
 
-[Survivor Contestant Age Analysis](https://github.com/peige07/Analytics-Portfolio/tree/main/Python%20Projects/Survivor%20Contestant%20Age%20Analysis) - In the realm of Survivor fandom, my family bets on victors based on episode #1 impressions. Seeking an advantage, I discreetly analyzed age groups to secure my winning streak
+[Survivor Contestant Age Analysis](https://github.com/peige07/Analytics-Portfolio/tree/main/Python%20Projects/Survivor%20Contestant%20Age%20Analysis) - In the realm of Survivor fandom, my family bets on victors based on episode #1 impressions. Seeking an advantage, I discreetly analyzed age groups to secure my winning streak.
 
 **Visualizations from Project:**
 <br>
@@ -65,13 +65,35 @@ Previews of each project with a short description and project link can be viewed
 <br>
 <br>
 ![Survivor Tableau Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/0f6128a6-2e5d-4ccf-97bd-bfefec4e36cd)
+<br>
+<br>
+
 
 
 
 
 ## SQL Projects
 
+[Covid Mortality Analysis](https://github.com/peige07/Analytics-Portfolio/tree/main/SQL%20Projects/Covid%20Mortality%20Analysis)- This project delved into the harsh reality of Covid's toll, swiftly pinpointing the continent with the most deaths and highest mortality rate. It tracked the daily pulse of new cases, capturing the pandemic's relentless journey through the dataset duration.
 
+**Visualizations from Project:**
+<br>
+![Folium Interactive Map](https://github.com/peige07/Analytics-Portfolio/assets/136380370/f25be4d5-1e0a-4035-bba1-34b26654bb16)
+<br>
+<br>
+![New deaths per month globally](https://github.com/peige07/Analytics-Portfolio/assets/136380370/bc1135bb-b016-4bb6-933c-233d127075c4)
+<br>
+<hr>
+<br>
+
+[Spotify Top Artists, Albums & Singles Analysis](https://github.com/peige07/Analytics-Portfolio/tree/main/SQL%20Projects/Spotify%20Top%20Artists%2C%20Albums%20%26%20Singles%20Analysis)- In the Spotify realm, this project swiftly uncovered the top 10 artists, singles, and albums, capturing the essence of musical dominance through digital streams.
+
+**Visualizations from Project:**
+<br>
+![Spotify Excel Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/36b4f638-af9a-48ff-bcb7-72508c52d077)
+<br>
+<hr>
+<br>
 
 
 ## Other Projects
