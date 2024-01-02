@@ -1,6 +1,6 @@
 # Covid Mortality Analysis
 
-*This project was created to analyze sales data from a national franchise of Bike Stores, specifically, I wanted to determine: the states that produced the most revenue, which months produced the most revenue, identify the top 10 revenue-producing products each year, determine the top sales reps based on performance and identify the top 10 customers who account for the most sales. *
+*This project was created to analyze sales data from a national franchise of Bike Stores, specifically, I wanted to determine: the states that produced the most revenue, which months produced the most revenue, identify the top 10 revenue-producing products each year, determine the top sales reps based on performance and identify the top 10 customers who account for the most sales.*
 
 To view the complete project [click here.](https://github.com/peige07/Analytics-Portfolio/blob/main/SQL%20Projects/Covid%20Mortality%20Analysis/Covid_Analysis_SQL.ipynb)
 
