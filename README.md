@@ -122,10 +122,10 @@ This project deciphered a national bike store franchise's sales data, pinpointin
 ![Netflix Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/d3aa8ac3-9915-430b-b7a4-e8e38f2b0ab0)
 
 
-[Superstore Analysis of Sales, Products, Categories & States](https://github.com/peige07/Analytics-Portfolio/tree/main/Other%20Projects/Product%2C%20Monthly%20Revenue%20%26%20Ad%20Spend%20Data%20Analysis)- This project dissected data from a digital marketing company, revealing monthly sales revenue, top-grossing states, delivery punctuality, product returns, acquisition channels' profitability, and product-specific customer satisfaction.
+[Superstore Analysis of Sales, Products, Categories & States](https://github.com/peige07/Analytics-Portfolio/tree/main/Other%20Projects/Superstore%20Sales,%20Product%20&%20Category%20Analysis)- This Tableau project delved into the Superstore Dataset, revealing revenue nuances per state, category, and subcategory. It artistically depicted profit margins across every metric, sculpting a concise narrative of analytical richness.
 
 **Visualizations from Project:**
 <br>
-![Superstore dashboard]![Screenshot 2024-01-16 102411](https://github.com/peige07/Analytics-Portfolio/assets/136380370/fd2870cb-4bea-4fd9-bbbf-de4a352565bf)
+![Superstore dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/fd2870cb-4bea-4fd9-bbbf-de4a352565bf)
 
 
