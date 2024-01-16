@@ -114,3 +114,17 @@ This project deciphered a national bike store franchise's sales data, pinpointin
 **Visualizations from Project:**
 <br>
 ![Customer Success Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/0bfb3dae-d905-4ed0-af52-32497a83f0e8)
+
+[Netflix Content Analysis of: Top Countries, Most Popular Genres & Content by Rating](https://github.com/peige07/Analytics-Portfolio/tree/main/Other%20Projects/Product%2C%20Monthly%20Revenue%20%26%20Ad%20Spend%20Data%20Analysis)- This Netflix data dive unveiled content-producing countries, distinguished preferences between movies and TV shows, crafted a top 10 genre list, and mapped content distribution based on ratings.
+
+**Visualizations from Project:**
+<br>
+![Netflix Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/d3aa8ac3-9915-430b-b7a4-e8e38f2b0ab0)
+
+
+[Product Performance, Monthly Revenue & Ad Spend Data Analysis](https://github.com/peige07/Analytics-Portfolio/tree/main/Other%20Projects/Product%2C%20Monthly%20Revenue%20%26%20Ad%20Spend%20Data%20Analysis)- This project dissected data from a digital marketing company, revealing monthly sales revenue, top-grossing states, delivery punctuality, product returns, acquisition channels' profitability, and product-specific customer satisfaction.
+
+**Visualizations from Project:**
+<br>
+![Customer Success Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/0bfb3dae-d905-4ed0-af52-32497a83f0e8)
+
