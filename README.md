@@ -9,7 +9,7 @@ Previews of each project with a short description and project link can be viewed
 **Projects are broken down into 3 separate folders based on the way the analysis was performed:**
 - **Python Projects -**  analysis using Python programming, visualizations created with Python, Excel & Tableau
 - **SQL Projects -**  analysis using SQL specifically Microsoft SQL Server Management Studio, visualizations created with Excel & Tableau
-- **Other Projects -** projects that don't neatly fit into another category ex: websites created with HTML, CSS & JS or Excel-only projects
+- **Other Projects -** projects that don't neatly fit into another category ex: websites created with HTML, CSS & JS, Excel-only projects or dashboards
 
 **Main skills, tools & softwares:**
 - **Python Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Folium & Pypyodbc
