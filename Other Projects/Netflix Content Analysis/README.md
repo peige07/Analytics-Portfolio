@@ -2,7 +2,7 @@
 
 *Data analysis based on data acquired from Netflix. The project goal was to identify the top content-producing countries, which countries produced which types of content (Movies or T.V. shows), the top 10 genres by country, and the distribution of ratings.*
 
-The entire project was completed in Excel, [click here to view the dashboard on Tableau Public](https://public.tableau.com/app/profile/peige.malys/viz/NetflixDashboard_17044637979780/NetflixDashboard)
+The entire project was completed in Tableau, [click here to view the dashboard on Tableau Public](https://public.tableau.com/app/profile/peige.malys/viz/NetflixDashboard_17044637979780/NetflixDashboard)
 
 ### Tools, Software & Skills showcased:
 - Excel 
