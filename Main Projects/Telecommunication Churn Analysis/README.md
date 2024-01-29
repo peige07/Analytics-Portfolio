@@ -38,7 +38,8 @@ To view the complete project [click here](LINK TO FINISHED NOTEBOOK)
 
 **Excel Dashboard**
 <br>
-![Asheville Excel Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/03bc9623-8721-490a-8bfd-798a83f001e9)
+![Telco Excel Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/c3237694-3992-4c54-82bc-064e4a388c8f)
+)
 <br>
 
 **Tableau Dashboard**
