@@ -39,9 +39,10 @@ To view the complete project [click here](LINK TO FINISHED NOTEBOOK)
 **Excel Dashboard**
 <br>
 ![Telco Excel Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/c3237694-3992-4c54-82bc-064e4a388c8f)
-)
+
 <br>
 
 **Tableau Dashboard**
 <br>
-![Asheville Tableau Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/be776682-21b6-484e-9740-56773f235b97)
+![Tableau Telco Churn Metrics Dashboard](https://github.com/peige07/Analytics-Portfolio/assets/136380370/84b909fb-e79f-4763-b8b4-5ced9a9814e8)
+
