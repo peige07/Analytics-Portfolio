@@ -1,6 +1,8 @@
 # Data Analytics Portfolio
 
-For inquiries and collab requests feel free to reach out at peige77@gmail.com.
+For inquiries and collab requests feel free to reach out at peige77@gmail.com or give me a call at 716-344-3202.
+
+I'm currently seeking opportunities in Data Analytics or Business Intelligence where I can contribute to a dynamic team, leverage my skills in data-driven insights, and help drive strategic business decisions. I’m excited to apply my expertise in SQL, Python, and data visualization tools to make a meaningful impact on company growth and efficiency.
 
 This repository will serve as a compendium of the projects that I have completed. Most projects are showcased inside a Jupyter Notebook to show the data analysis thought process concisely.
 
